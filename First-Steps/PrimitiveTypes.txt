@@ -1,0 +1,10 @@
+There are 8 Primitve (Java) Types:
+
+char - a single character (letter)
+boolean - true/false ONLY
+float - a decimal number
+double - a larger decimal number
+byte - the smallest type of number
+short - a bigger number
+int - a bigger number     **this is used most often
+long - the biggest type of number
